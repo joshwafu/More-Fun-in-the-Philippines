@@ -24,7 +24,7 @@
 	}
 }
 
-@media (min-width:800px) {
+@media (min-width:768px) {
     #bigger {
         max-width:30px;
     }
@@ -33,7 +33,7 @@
 	}
 }
 
-@media (max-width:360px) {
+@media (max-width:426px) {
     #bigger {
         max-width:18px;
     }
@@ -41,6 +41,7 @@
 		max-width: 8px;
 	}
 }
+
 .col-12 {width: 100%;}
 
 /* For mobile phones: */
